@@ -1,7 +1,7 @@
 # LinkedList_Strings_Project_2015
 Linked List Project
 
-View this README in txt form for correct formatting.
+View this README in txt form for correct formatting (you can hit edit to see it in correct form).
 
 In this project, you will use linked lists to represent
 strings. You will implement functions that manipulate these linked lists to
