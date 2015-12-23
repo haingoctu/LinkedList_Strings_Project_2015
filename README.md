@@ -1,5 +1,6 @@
 # LinkedList_Strings_Project_2015
-Linked List Project
+By Hai Tu
+Dr. Szumlanksi CS 1 2015 @UCF
 
 View this README in txt form for correct formatting (you can hit edit to see it in correct form).
 
