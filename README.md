@@ -1,6 +1,8 @@
 # LinkedList_Strings_Project_2015
 Linked List Project
 
+View this README in txt form for correct formatting.
+
 In this project, you will use linked lists to represent
 strings. You will implement functions that manipulate these linked lists to
 transmute the strings they represent. In doing so, you will master the craft
@@ -17,7 +19,7 @@ characters, and no spaces. Read in the string and convert it to a linked list. T
 working string, and you will manipulate it according to the remaining commands in the input file.
 Each of the remaining lines in the file will correspond to one of the following string manipulation
 commands:
-Command              Description
+Command             Description
 -------             --------------
 @ key str           key is a single character. str is a string. In your working string, replace all instances of key with str.
                     Note: key and str are guaranteed to contain alphanumeric characters only
